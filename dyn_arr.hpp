@@ -1,6 +1,8 @@
 #ifndef DYN_ARR_H_INCLUDED
 #define DYN_ARR_H_INCLUDED
 
+#include <cstdint>
+
 template <class T>
 
 class DynArr
